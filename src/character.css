@@ -1,0 +1,27 @@
+.row{
+    display: flex;
+    margin-top:65px;
+}
+
+.cell{
+    border: 1px solid black;
+    width: 175px;
+    height: 175px;
+    margin: 10px;
+   
+}
+
+.header{
+    padding: 5px; 
+    justify-content:center;
+    text-align:center;
+   
+}
+.content{
+    padding: 40px 0px 0px 60px;
+    background-color: rgb(35, 54, 224); 
+    height: 70px;
+    justify-content:left;
+    text-align: left;
+    
+}
